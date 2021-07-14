@@ -44,7 +44,7 @@
     "@types/lodash": "^4.14.170",
     "@types/morgan": "^1.9.2",
     "@types/mysql": "^2.15.18",
-    "@types/node": "^15.6.0",
+    "@types/node": "^16.3.2",
     "@types/on-finished": "^2.3.1",
     "@types/passport": "^1.0.5",
     "@types/passport-http-bearer": "^1.0.36",
